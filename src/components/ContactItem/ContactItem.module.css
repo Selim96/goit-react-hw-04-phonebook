@@ -1,0 +1,17 @@
+.item {
+    display: flex;
+    justify-content:space-between;
+    margin-bottom: 10px;
+    font-weight: 600;
+}
+
+.itemNumber {
+    margin-left: 10px;
+    margin-right: 10px;
+    margin: 0;
+}
+
+.button {
+    border-radius: 5px;
+
+}
